@@ -16,6 +16,7 @@ class Provider extends AbstractProvider
      */
     protected $scopes = [
         'user.info.basic',
+        'video.list'
     ];
 
     /**
